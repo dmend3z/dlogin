@@ -1,0 +1,4 @@
+name: dLogin
+author: dnx
+version: 0.5
+main: com.dnx.login.Main
